@@ -1,0 +1,242 @@
+s-1-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.999570906162262
+s-10-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.9999645948410034
+s-11-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.9996664524078369
+s-12-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.9998329877853394
+s-13-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.99988853931427
+s-14-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.9998021721839905
+s-15-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.999985933303833
+s-16-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.8453084826469421
+s-17-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.9997665286064148
+s-18-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.9979935884475708
+s-19-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.9966087341308594
+s-2-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.9998854398727417
+s-20-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.998763918876648
+s-21-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.9920080900192261
+s-22-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.9999734163284302
+s-23-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.9998847246170044
+s-24-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.9999974966049194
+s-3-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.9998767375946045
+s-4-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.9972932934761047
+s-5-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.8974030613899231
+s-6-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.9998785257339478
+s-7-No_Mask-true.txt
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Accuracy: 0.9987741112709045
